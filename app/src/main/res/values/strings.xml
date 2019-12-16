@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EspressoBasics</string>
+    <string name="espresso_button_action">Instrumentation Test with button click</string>
+
+</resources>
