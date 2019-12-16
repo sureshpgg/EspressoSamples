@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">EspressoBasics</string>
-    <string name="espresso_button_action">Instrumentation Test with button click</string>
-    <string name="button_action_forError">Failed</string>
+    <string name="espresso_button_action">Display Success</string>
+    <string name="button_action_forError">Display Failed</string>
 
 </resources>
